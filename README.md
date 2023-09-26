@@ -7,8 +7,6 @@ Hi 👋, I'm Fernando Montoya
 - 💬 Ask me about **JavaScript**
 - 🧑‍🏫  **Teaching** JavaScript to some friends
 
-[![dfm555](https://github-profile-trophy.vercel.app/?username=dfm555&margin-w=5&no-bg=false&column=7&no-frame=false&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### Connect with me:
 
 <a href="https://linkedin.com/in/dfm555" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="dfm555" height="30" width="40" /></a>
