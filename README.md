@@ -1,19 +1,37 @@
-Hi 👋, I'm Fernando Montoya
-===========================
+# Hi 👋, I'm Fernando Montoya
 
-### A full stack developer from Colombia. I am passionate about JavaScript, React, Next and Node.js
+### Full Stack Developer from Colombia 🇨🇴
 
-- 🌱  I’m currently learning **React native**
-- 💬 Ask me about **JavaScript**
-- 🧑‍🏫  **Teaching** JavaScript to some friends
+Passionate about building scalable web applications with JavaScript, TypeScript, and React.
 
-### Connect with me:
+- 🚀 Currently working with **React, TypeScript, .NET, and Node.js**
+- 🌱 Currently learning **React Native**
+- 💬 Ask me about **JavaScript / TypeScript**
+- 🧑‍🏫 Teaching JavaScript to friends
 
-<a href="https://linkedin.com/in/dfm555" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="dfm555" height="30" width="40" /></a>
+---
 
-### Languages and Tools:
+### 🔗 Connect with me
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css3" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn-ak.f.st-hatena.com/images/fotolife/c/commmune_negishi/20210222/20210222125252.png" alt="nextjs" width="50" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="50" height="40"/> </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Montoya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dfm555)
 
+---
 
+### 🛠️ Languages & Tools
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfm555&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfm555&layout=compact&theme=tokyonight)
