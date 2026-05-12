@@ -30,8 +30,3 @@ Passionate about building scalable web applications with JavaScript, TypeScript,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Fernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfm555&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfm555&layout=compact&theme=tokyonight)
